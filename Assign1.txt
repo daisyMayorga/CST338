@@ -3,6 +3,7 @@
  * Assignment # 1 
  * 5/2/2017
  * CST 338
+ *String Manipulator
  ****************************************/
 
 import java.text.DecimalFormat;
